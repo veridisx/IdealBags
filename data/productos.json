@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bolsa de celofán transparente",
+    "categoria": "Celofán",
+    "medida": "15 × 25 + 3 cm",
+    "precio": "$629",
+    "unidad": "1,000 piezas",
+    "imagen": "img/productos/producto-01.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Bolsa de celofán con solapa",
+    "categoria": "Celofán",
+    "medida": "20 × 30 + 4 cm",
+    "precio": "$780",
+    "unidad": "1,000 piezas",
+    "imagen": "img/productos/producto-02.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Bolsa para dulces",
+    "categoria": "Dulces",
+    "medida": "10 × 15 cm",
+    "precio": "$420",
+    "unidad": "1,000 piezas",
+    "imagen": "img/productos/producto-03.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Bolsa para panadería",
+    "categoria": "Panadería",
+    "medida": "18 × 25 cm",
+    "precio": "$695",
+    "unidad": "1,000 piezas",
+    "imagen": "img/productos/producto-04.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Bolsa para regalos",
+    "categoria": "Regalos",
+    "medida": "25 × 35 cm",
+    "precio": "$890",
+    "unidad": "1,000 piezas",
+    "imagen": "img/productos/producto-05.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Bolsa de polipropileno",
+    "categoria": "Polipropileno",
+    "medida": "20 × 30 cm",
+    "precio": "$735",
+    "unidad": "1,000 piezas",
+    "imagen": "img/productos/producto-06.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Bolsa para accesorios",
+    "categoria": "Accesorios",
+    "medida": "12 × 18 cm",
+    "precio": "$510",
+    "unidad": "1,000 piezas",
+    "imagen": "img/productos/producto-07.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Bolsa con cierre adhesivo",
+    "categoria": "Especiales",
+    "medida": "15 × 20 cm",
+    "precio": "$675",
+    "unidad": "1,000 piezas",
+    "imagen": "img/productos/producto-08.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Bolsa para presentación",
+    "categoria": "Presentación",
+    "medida": "22 × 30 cm",
+    "precio": "$820",
+    "unidad": "1,000 piezas",
+    "imagen": "img/productos/producto-09.jpg"
+  }
+]

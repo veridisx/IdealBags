@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Ideal Bags - Soluciones adicionales de empaque. Catálogo de bolsas y soluciones para tu negocio.">
+  <title>Ideal Bags | Soluciones adicionales de empaque</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container nav-wrap">
+    <a class="brand" href="#inicio" aria-label="Ideal Bags inicio">
+      <img src="img/logo-ideal-bags.jpeg" alt="Ideal Bags" class="brand-logo">
+    </a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Abrir menú">☰</button>
+    <nav class="main-nav" id="mainNav">
+      <a href="#inicio">Inicio</a>
+      <a href="#categorias">Categorías</a>
+      <a href="#catalogo">Productos</a>
+      <a href="#nosotros">Nosotros</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+<section class="hero" id="inicio">
+  <div class="container hero-grid">
+    <div class="hero-copy">
+      <span class="eyebrow">IDEAL BAGS</span>
+      <h1>Soluciones adicionales de empaque</h1>
+      <p>Encuentra bolsas y soluciones de empaque para presentar, proteger y comercializar tus productos.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#catalogo">Ver catálogo</a>
+        <a class="btn btn-outline" href="https://wa.me/525500000000?text=Hola%20Ideal%20Bags,%20quiero%20información%20sobre%20sus%20productos." target="_blank" rel="noopener">WhatsApp</a>
+      </div>
+    </div>
+    <div class="hero-card">
+      <div class="color-stripe blue"></div>
+      <div class="color-stripe cyan"></div>
+      <div class="color-stripe red"></div>
+      <div class="hero-badge">Catálogo<br><strong>Ideal Bags</strong></div>
+    </div>
+  </div>
+</section>
+
+<section class="section categories" id="categorias">
+  <div class="container">
+    <div class="section-heading">
+      <span class="eyebrow">EXPLORA</span>
+      <h2>Categorías</h2>
+      <p>Selecciona una categoría para encontrar el producto que necesitas.</p>
+    </div>
+    <div class="category-grid">
+      <button class="category-card blue-card" data-category="Celofán">Celofán</button>
+      <button class="category-card cyan-card" data-category="Polipropileno">Polipropileno</button>
+      <button class="category-card red-card" data-category="Especiales">Especiales</button>
+      <button class="category-card neutral-card" data-category="Todos">Ver todos</button>
+    </div>
+  </div>
+</section>
+
+<section class="section catalog" id="catalogo">
+  <div class="container">
+    <div class="section-heading">
+      <span class="eyebrow">CATÁLOGO</span>
+      <h2>Nuestros productos</h2>
+      <p>Consulta las opciones disponibles y solicita información directamente por WhatsApp.</p>
+    </div>
+
+    <div class="catalog-tools">
+      <label class="search-box">
+        <span>⌕</span>
+        <input id="searchInput" type="search" placeholder="Buscar producto..." aria-label="Buscar producto">
+      </label>
+      <select id="categoryFilter" aria-label="Filtrar por categoría">
+        <option value="Todos">Todas las categorías</option>
+        <option value="Celofán">Celofán</option>
+        <option value="Polipropileno">Polipropileno</option>
+        <option value="Especiales">Especiales</option>
+        <option value="Dulces">Dulces</option>
+        <option value="Panadería">Panadería</option>
+        <option value="Regalos">Regalos</option>
+        <option value="Accesorios">Accesorios</option>
+        <option value="Presentación">Presentación</option>
+      </select>
+    </div>
+
+    <div id="productGrid" class="product-grid" aria-live="polite"></div>
+    <p id="emptyState" class="empty-state" hidden>No encontramos productos con esos criterios.</p>
+  </div>
+</section>
+
+<section class="section about" id="nosotros">
+  <div class="container about-box">
+    <div>
+      <span class="eyebrow">IDEAL BAGS</span>
+      <h2>Empaque que presenta tu producto.</h2>
+    </div>
+    <p>Esta sección puede sustituirse por la historia, experiencia, cobertura y propuesta de valor reales de Ideal Bags.</p>
+  </div>
+</section>
+
+<section class="section contact" id="contacto">
+  <div class="container contact-box">
+    <div>
+      <span class="eyebrow">CONTACTO</span>
+      <h2>¿Necesitas una cotización?</h2>
+      <p>Envíanos el producto, medida y cantidad que necesitas.</p>
+    </div>
+    <a class="btn btn-whatsapp" href="https://wa.me/525500000000?text=Hola%20Ideal%20Bags,%20quiero%20solicitar%20una%20cotización." target="_blank" rel="noopener">Solicitar por WhatsApp</a>
+  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-wrap">
+    <p>© <span id="year"></span> Ideal Bags. Todos los derechos reservados.</p>
+    <p>Soluciones adicionales de empaque</p>
+  </div>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>
