@@ -77,6 +77,63 @@ h2{font-size:clamp(2rem,4vw,3rem);line-height:1.1;color:var(--azul-ideal)}
 .contact-box{background:linear-gradient(135deg,#fff,#f4f6f8);border:1px solid var(--borde)}
 .site-footer{background:#0b176d;color:#dfe5ff;padding:28px 0}
 .footer-wrap{display:flex;justify-content:space-between;gap:20px;font-size:.9rem}
+
+/* ==========================================================================
+   SECCIÓN NOSOTROS (Compromiso Ambiental)
+   ========================================================================== */
+.about-box {
+    text-align: left; /* Alineamos a la izquierda para mejor lectura */
+}
+
+.commitment-intro h2 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--primary-blue);
+    margin-bottom: 25px;
+}
+
+/* Línea decorativa lateral para el párrafo principal */
+.commitment-quote {
+    border-left: 4px solid var(--secondary-cyan);
+    padding-left: 20px;
+    margin-bottom: 40px;
+}
+
+.commitment-quote .highlight-text {
+    font-size: 1.1em;
+    color: var(--dark-text);
+    margin-bottom: 10px;
+}
+
+.commitment-quote p {
+    color: #555;
+}
+
+/* Cuadrícula para alinear los 3 elementos responsivos */
+.commitment-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    border-top: 1px solid var(--gray-border);
+    padding-top: 30px;
+}
+
+.commitment-item h3 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 1.1em;
+    color: var(--dark-text);
+    margin-bottom: 10px;
+}
+
+.commitment-item p {
+    font-size: 0.95em;
+    color: #555;
+    margin: 0;
+}
+
 @media(max-width:850px){
   .menu-toggle{display:block}
   .main-nav{display:none;position:absolute;left:0;right:0;top:82px;background:#fff;padding:20px 5%;flex-direction:column;align-items:flex-start;border-bottom:1px solid var(--borde)}

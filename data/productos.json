@@ -6,7 +6,7 @@
     "medida": "15 × 25 + 3 cm",
     "precio": "$629",
     "unidad": "1,000 piezas",
-    "imagen": "img/productos/producto-01.webp"
+    "imagen": "img/productos/producto-01.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "medida": "20 × 30 + 4 cm",
     "precio": "$780",
     "unidad": "1,000 piezas",
-    "imagen": "img/productos/producto-02.webp"
+    "imagen": "img/productos/producto-02.jpg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "medida": "10 × 15 cm",
     "precio": "$420",
     "unidad": "1,000 piezas",
-    "imagen": "img/productos/producto-03.webp"
+    "imagen": "img/productos/producto-03.jpg"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "medida": "18 × 25 cm",
     "precio": "$695",
     "unidad": "1,000 piezas",
-    "imagen": "img/productos/producto-04.webp"
+    "imagen": "img/productos/producto-04.jpg"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "medida": "25 × 35 cm",
     "precio": "$890",
     "unidad": "1,000 piezas",
-    "imagen": "img/productos/producto-05.webp"
+    "imagen": "img/productos/producto-05.jpg"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "medida": "20 × 30 cm",
     "precio": "$735",
     "unidad": "1,000 piezas",
-    "imagen": "img/productos/producto-06.webp"
+    "imagen": "img/productos/producto-06.jpg"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "medida": "12 × 18 cm",
     "precio": "$510",
     "unidad": "1,000 piezas",
-    "imagen": "img/productos/producto-07.webp"
+    "imagen": "img/productos/producto-07.jpg"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "medida": "15 × 20 cm",
     "precio": "$675",
     "unidad": "1,000 piezas",
-    "imagen": "img/productos/producto-08.webp"
+    "imagen": "img/productos/producto-08.jpg"
   },
   {
     "id": 9,
@@ -78,6 +78,33 @@
     "medida": "22 × 30 cm",
     "precio": "$820",
     "unidad": "1,000 piezas",
-    "imagen": "img/productos/producto-09.webp"
+    "imagen": "img/productos/producto-09.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Bolsa para presentación",
+    "categoria": "Presentación",
+    "medida": "22 × 30 cm",
+    "precio": "$820",
+    "unidad": "1,000 piezas",
+    "imagen": "img/productos/producto-10.webp"
+  },
+  {
+    "id": 11,
+    "nombre": "Bolsa para presentación",
+    "categoria": "Presentación",
+    "medida": "22 × 30 cm",
+    "precio": "$820",
+    "unidad": "1,000 piezas",
+    "imagen": "img/productos/producto-11.webp"
+  },
+  {
+    "id": 12,
+    "nombre": "Bolsa para presentación",
+    "categoria": "Presentación",
+    "medida": "22 × 30 cm",
+    "precio": "$820",
+    "unidad": "1,000 piezas",
+    "imagen": "img/productos/producto-12.webp"
   }
 ]

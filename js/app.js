@@ -8,7 +8,7 @@ const mainNav = document.getElementById("mainNav");
 
 // CAMBIA ESTE NÚMERO POR EL WHATSAPP REAL DEL CLIENTE.
 // Formato internacional sin +, espacios ni guiones. Ejemplo México: 525512345678
-const WHATSAPP = "525500000000";
+const WHATSAPP = "525536753248";
 
 function createWhatsAppLink(product) {
   const text = `Hola Ideal Bags, quiero información sobre: ${product.nombre}. Medida: ${product.medida}. Precio publicado: ${product.precio}. Presentación: ${product.unidad}.`;
