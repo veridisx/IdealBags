@@ -17,9 +17,9 @@ body {
     font-family: Inter, Segoe UI, Arial, sans-serif;
     color: var(--gris-oscuro);
     line-height: 1.6;
-    
+
     /* Ruta a tu imagen de textura */
-    background-image: url('img/productos/fondo.jpg');
+    background-image: url('../img/productos/fondo.jpg');
     
     /* Configuración dependiendo del tipo de textura que uses: */
     

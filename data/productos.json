@@ -6,7 +6,7 @@
     "medida": "15 × 25 + 3 cm",
     "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
-    "imagen": "img/productos/producto-01.jpg"
+    "imagen": "img/productos/producto-01.jpeg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "medida": "20 × 30 + 4 cm",
     "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
-    "imagen": "img/productos/producto-02.jpg"
+    "imagen": "img/productos/producto-02.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "medida": "10 × 15 cm",
     "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
-    "imagen": "img/productos/producto-03.jpg"
+    "imagen": "img/productos/producto-03.jpeg"
   },
   {
     "id": 4,
