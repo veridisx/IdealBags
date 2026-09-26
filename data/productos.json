@@ -4,7 +4,7 @@
     "nombre": "Bolsa de celofán transparente",
     "categoria": "Celofán",
     "medida": "15 × 25 + 3 cm",
-    "precio": "$629",
+    "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
     "imagen": "img/productos/producto-01.jpg"
   },
@@ -13,7 +13,7 @@
     "nombre": "Bolsa de celofán con solapa",
     "categoria": "Celofán",
     "medida": "20 × 30 + 4 cm",
-    "precio": "$780",
+    "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
     "imagen": "img/productos/producto-02.jpg"
   },
@@ -22,7 +22,7 @@
     "nombre": "Bolsa para dulces",
     "categoria": "Dulces",
     "medida": "10 × 15 cm",
-    "precio": "$420",
+    "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
     "imagen": "img/productos/producto-03.jpg"
   },
@@ -31,7 +31,7 @@
     "nombre": "Bolsa para panadería",
     "categoria": "Panadería",
     "medida": "18 × 25 cm",
-    "precio": "$695",
+    "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
     "imagen": "img/productos/producto-04.jpg"
   },
@@ -40,7 +40,7 @@
     "nombre": "Bolsa para regalos",
     "categoria": "Regalos",
     "medida": "25 × 35 cm",
-    "precio": "$890",
+    "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
     "imagen": "img/productos/producto-05.jpg"
   },
@@ -49,7 +49,7 @@
     "nombre": "Bolsa de polipropileno",
     "categoria": "Polipropileno",
     "medida": "20 × 30 cm",
-    "precio": "$735",
+    "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
     "imagen": "img/productos/producto-06.jpg"
   },
@@ -58,7 +58,7 @@
     "nombre": "Bolsa para accesorios",
     "categoria": "Accesorios",
     "medida": "12 × 18 cm",
-    "precio": "$510",
+    "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
     "imagen": "img/productos/producto-07.jpg"
   },
@@ -67,7 +67,7 @@
     "nombre": "Bolsa con cierre adhesivo",
     "categoria": "Especiales",
     "medida": "15 × 20 cm",
-    "precio": "$675",
+    "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
     "imagen": "img/productos/producto-08.jpg"
   },
@@ -76,7 +76,7 @@
     "nombre": "Bolsa para presentación",
     "categoria": "Presentación",
     "medida": "22 × 30 cm",
-    "precio": "$820",
+    "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
     "imagen": "img/productos/producto-09.jpg"
   },
@@ -85,7 +85,7 @@
     "nombre": "Bolsa para presentación",
     "categoria": "Presentación",
     "medida": "22 × 30 cm",
-    "precio": "$820",
+    "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
     "imagen": "img/productos/producto-10.webp"
   },
@@ -94,7 +94,7 @@
     "nombre": "Bolsa para presentación",
     "categoria": "Presentación",
     "medida": "22 × 30 cm",
-    "precio": "$820",
+    "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
     "imagen": "img/productos/producto-11.webp"
   },
@@ -103,7 +103,7 @@
     "nombre": "Bolsa para presentación",
     "categoria": "Presentación",
     "medida": "22 × 30 cm",
-    "precio": "$820",
+    "precio": "Descuento por cantidad",
     "unidad": "1,000 piezas",
     "imagen": "img/productos/producto-12.webp"
   }
