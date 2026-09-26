@@ -13,7 +13,24 @@
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
-body{font-family:Inter,Segoe UI,Arial,sans-serif;color:var(--gris-oscuro);background:var(--blanco);line-height:1.6}
+body {
+    font-family: Inter, Segoe UI, Arial, sans-serif;
+    color: var(--gris-oscuro);
+    line-height: 1.6;
+    
+    /* Ruta a tu imagen de textura */
+    background-image: url('img/productos/fondo.jpg');
+    
+    /* Configuración dependiendo del tipo de textura que uses: */
+    
+    /* OPCIÓN A: Si la textura es un patrón pequeño o repetitivo */
+    background-repeat: repeat;
+    
+    /* OPCIÓN B: Si la textura es una imagen grande a pantalla completa */
+    /* background-size: cover; */
+    /* background-position: center; */
+    /* background-attachment: fixed; */
+}
 a{text-decoration:none;color:inherit}
 button,input,select{font:inherit}
 .container{width:min(var(--max),92%);margin:auto}
